@@ -1,0 +1,9 @@
+/home/koen/workspaces/robot_main/install/_setup_util.py
+/home/koen/workspaces/robot_main/install/env.sh
+/home/koen/workspaces/robot_main/install/setup.bash
+/home/koen/workspaces/robot_main/install/local_setup.bash
+/home/koen/workspaces/robot_main/install/setup.sh
+/home/koen/workspaces/robot_main/install/local_setup.sh
+/home/koen/workspaces/robot_main/install/setup.zsh
+/home/koen/workspaces/robot_main/install/local_setup.zsh
+/home/koen/workspaces/robot_main/install/.rosinstall
