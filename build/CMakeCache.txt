@@ -336,6 +336,15 @@ gtest_hide_internal_symbols:BOOL=OFF
 //Dependencies for the target
 gtest_main_LIB_DEPENDS:STATIC=general;-lpthread;general;gtest;
 
+//The directory containing a CMake configuration file for jetson-utils.
+jetson-utils_DIR:PATH=jetson-utils_DIR-NOTFOUND
+
+//Value Computed by CMake
+ros_deep_learning_BINARY_DIR:STATIC=/home/koen/workspaces/robot_main/build/ros_deep_learning
+
+//Value Computed by CMake
+ros_deep_learning_SOURCE_DIR:STATIC=/home/koen/workspaces/robot_main/src/ros_deep_learning
+
 
 ########################
 # INTERNAL cache entries
@@ -446,7 +455,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=4
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=5
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
