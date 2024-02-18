@@ -1,0 +1,8 @@
+prefix=/home/koen/workspaces/robot_main/install
+
+Name: instance
+Description: Description of instance
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

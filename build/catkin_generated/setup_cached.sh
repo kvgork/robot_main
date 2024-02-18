@@ -9,7 +9,6 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/koen/workspaces/robot_main/devel:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/koen/workspaces/robot_main/devel/lib:$LD_LIBRARY_PATH"
-export PATH='/opt/ros/melodic/bin:/home/koen/anaconda3/bin:/home/koen/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'
 export PWD='/home/koen/workspaces/robot_main/build'
 export ROSLISP_PACKAGE_DIRECTORIES='/home/koen/workspaces/robot_main/devel/share/common-lisp'
 export ROS_PACKAGE_PATH="/home/koen/workspaces/robot_main/src:$ROS_PACKAGE_PATH"
